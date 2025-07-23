@@ -1,9 +1,9 @@
 **Caption:**
 
-Your key to victory against Secluded Island is here. 💡 Yaphallaさんによる「Secluded Island」最新攻略ガイド。The right formation makes all the difference here. コメントで感想を聞かせてください！💬
+Data-driven strategies for Illucia the Unveiler. 📊 Yaphalla x Weirdo's Clubさんによる「Illucia the Unveiler」最新攻略ガイド。Resonance 815でのパフォーマンス分析。皆さんのハイスコアを教えて！📈
 
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #SecludedIsland
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #Illucia
 
 **Alt Text:**
 
-An infographic guide for the Secluded Island event in AFK Journey, created by Yaphalla, version 1.0, dated 2025-07-23. It provides a detailed map with optimal pathing for collecting buffs and defeating the main bosses: Shadow Salazer, Shadow Mirael, and Dethianel. The guide also includes recommended team compositions for various tower sets and boss encounters.
+An infographic guide for the Illucia the Unveiler boss in AFK Journey, created by Yaphalla and Weirdo's Club, version 8.0, dated 2025-07-23, for Resonance 815. It features multiple team compositions with damage scores, including teams from Cheetos, TruongNguyen, Frosty, and others. The guide notes that all formations have some variance in damage due to RNG and includes a detailed charm priority list.
