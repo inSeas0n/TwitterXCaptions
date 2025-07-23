@@ -12,7 +12,7 @@ Getting started is simple. Just follow these steps:
 
 1.  **📥 Add Your Image**
 
-    Place any new image you want to process (like a boss guide or event infographic) into the `1_input/images_to_process/` folder.
+    Place any new image you want to process (like a boss guide or event infographic) into the `1_input/` folder.
 
 2.  **🤖 Run the Workflow**
 

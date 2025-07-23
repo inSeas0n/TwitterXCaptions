@@ -13,7 +13,7 @@ This document outlines the primary workflow for creating engaging, high-performi
 
 ## 2. Content Foundation: Image-First Context Protocol
 
-To ensure captions are data-rich and contextually accurate, the following protocol will be executed for **each image** found in `C:\Twitter\1_input\images_to_process`. This protocol prioritizes direct image analysis to eliminate errors from filename or historical data reliance.
+To ensure captions are data-rich and contextually accurate, the following protocol will be executed for **each image** found in `C:\Twitter\1_input`. This protocol prioritizes direct image analysis to eliminate errors from filename or historical data reliance.
 
 ### **Step 1: Image Recognition and OCR**
 
@@ -65,13 +65,13 @@ This engine uses the components from `C:\Twitter\2_workflow\caption_library.md` 
 ## 5. Archiving and File Management
 
 1.  **Log Caption:** Add the final caption and alt text to the end of `C:\Twitter\4_archive\captions_log.md`.
-2.  **Move Processed Image:** After all steps are complete for an image, move the image file from `C:\Twitter\1_input\images_to_process` to `C:\Twitter\4_archive\processed_images`. This prevents reprocessing and keeps the input directory clean.
+2.  **Move Processed Image:** After all steps are complete for an image, move the image file from `C:\Twitter\1_input` to `C:\Twitter\4_archive\processed_images`. This prevents reprocessing and keeps the input directory clean.
 
 ## 6. Execution Loop
 
 This is the main execution process. It will run until no images are left in the input directory.
 
-1.  **Check for Images:** List all files in the `C:\Twitter\1_input\images_to_process` directory.
+1.  **Check for Images:** List all files in the `C:\Twitter\1_input` directory.
 2.  **Termination Condition:** If the directory is empty, the workflow is complete. Stop execution.
 3.  **Process First Image:** Take the first image from the list.
 4.  **Execute Steps 1-4:** Perform the Anti-Repetition Analysis, Image-First Context Protocol, Caption Crafting, and Alt Text Protocol for the selected image.
