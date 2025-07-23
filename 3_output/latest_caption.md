@@ -1,5 +1,9 @@
-I'm excited to introduce Yapala.com, a new community-driven platform for #AFKJourney! It has everything from a team builder to hero databases and creator spotlights. Check out my full video tour to see how it can up your game!
+**Caption:**
 
-Watch here: https://www.youtube.com/watch?v=DCvP49Bvz6U
+Your key to victory against Secluded Island is here. 💡 Yaphallaさんによる「Secluded Island」最新攻略ガイド。The right formation makes all the difference here. コメントで感想を聞かせてください！💬
 
-#AFKJourney #AFKJourneyGuides #MobileGaming
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #SecludedIsland
+
+**Alt Text:**
+
+An infographic guide for the Secluded Island event in AFK Journey, created by Yaphalla, version 1.0, dated 2025-07-23. It provides a detailed map with optimal pathing for collecting buffs and defeating the main bosses: Shadow Salazer, Shadow Mirael, and Dethianel. The guide also includes recommended team compositions for various tower sets and boss encounters.
