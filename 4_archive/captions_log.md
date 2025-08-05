@@ -2,79 +2,119 @@
 
 **Caption:**
 
-Optimizing RNG Creeper: A look at the top-performing teams. 📊 Yaphallaさんによる「RNG Creeper」最新攻略ガイド。These teams are posting incredible numbers. 皆さんの戦略は？👇
+Struggling with Crazed Shellbrute? This is for you. 💡 Yaphalla x Weirdo's Clubさんによる「Crazed Shellbrute」最新攻略ガイド。The right formation makes all the difference here. どんな編成でクリアしましたか？
 
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #RNGCreeper
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #CrazedShellbrute
 
 **Alt Text:**
 
-An infographic guide for the RNG Creeper boss in AFK Journey, created by Yaphalla, version 8.1, dated 2025-07-20. It features multiple team compositions including Cheetos, Frosty, Mizon F2P, Rhaenys Sr., Jennie Kim, Rhaenys Jr., Rhaenys III., Sibyl, and Aiimer, along with a charm priority list.
+An infographic guide for the Crazed Shellbrute boss in AFK Journey, created by Yaphalla x Weirdo's Club, version 8.0, dated 2025-07-24. It features 6 team compositions, including teams for Frosty, Rickettsia, and Genhard x Rhaenys, along with a detailed charm priority list.
 
 ---
 
 **Caption:**
 
-Struggling with Thalassa? This guide is for you. 💡 Yaphallaさんによる「Thalassa」最新攻略ガイド。Pay close attention to the charm priority on this one. この編成、試してみてね！👍
+Power to the players! 💪
 
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #Thalassa
+Connect with top players, get the best guides, and join the conversation. Find your AFK Journey community below!
+
+Official: https://discord.com/invite/afkjourney
+Official (JP): http://discord.gg/vhvUDzYFAj
+Prydwen (Guides): https://discord.com/invite/prydwen
+Fight Club (PvP): https://discord.com/invite/z22yE5eFHK
+Honor Duel (PvP): https://discord.com/invite/YDndgX8RYV
+Weirdo's Club (VN): https://discord.com/invite/cheetosfff
+
+他にも良いコミュニティがあれば教えて！👇
+
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #GameStrategy
 
 **Alt Text:**
 
-An infographic guide for the Thalassa boss in AFK Journey, created by Yaphalla, version 8.0, dated 2025-07-21. It features 3 team compositions including Swampytuff, fawkes, Ashtaka, Sibyl, and Ebz, along with a charm priority list.
+An image promoting various AFK Journey discord communities. The image has a dark background with the AFK Journey logo and text that reads "Connect with the AFK Journey Community". Below this, there are logos and links for the official AFK Journey discord, the official Japanese discord, Prydwen, Fight Club, Honor Duel, and Weirdo's Club.
 
 ---
 
 **Caption:**
 
-The numbers are in for RNG Creeper v8.1. 📊 Yaphallaさんによる「RNG Creeper」最新攻略ガイド。A deep dive into the data. このデータ、どう思いますか？📊
+Our community is just built different. Check out this incredible artwork! 🎨
 
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #RNGCreeper
+Introducing inSeas0n, the official mascot for the Analytica team, created by the amazing @Surplus_101! We love seeing our theorycrafters get their own identity.
+
+What do you think of the new mascot? Let us know in the comments! 👇
+
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #AFKJourneyArt
 
 **Alt Text:**
 
-An infographic guide for the RNG Creeper boss in AFK Journey, created by Yaphalla, version 8.1, dated 2025-07-20. It features 9 team compositions including Cheetos, Frosty, Mizon F2P, Rhaenys Sr., jennie kim, Rhaenys Jr., Rhaenys III., Sibyl, and Aiimer, along with a charm priority list.
+A digital illustration of a stylized, anthropomorphic cat character named inSeas0n, the mascot for the Analytica team, created by @Surplus_101. The character has a confident expression, wearing modern, tech-inspired clothing and headphones, set against a vibrant, abstract background with geometric shapes and the AFK Journey logo.Ready to dominate with Rockzilla? 🔥
+
+Meet Rockzilla, the Frontrow Tank that will shield your team from the zombie hordes! That Atomic Ray is a game-changer, dealing massive AoE damage to anything in its path. 💥
+
+`あなたの最強チームを教えて！💪`
+
+#ClashOfCritters #ClashCritters #CritterGuide
+
+---
+
+**Alt Text:**
+
+A character card for the Critter "Rockzilla" from the mobile game "Clash of Critters". Rockzilla is a Frontrow Tank, a large, rocky creature with purple crystalline spikes on its back. The image displays its stats: 93.91K Attack, 769.12K HP, and 54.65K Defense. Its ability, "Atomic Ray," is described as "Fires an ultra powerful beam, dealing AoE damage. Sometimes crit."
 
 ---
 
 **Caption:**
 
-The community delivers! Check out this Mistal Berserker guide. ✨ Yaphallaさんによる「Mistal Berserker」最新攻略ガイド。Incredible work from the community as always. あなたの最強チームを教えて！💪
+The ultimate Necrodrakon strategy guide has arrived. 💡
 
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #MistalBerserker
+Yaphallaさんによる「Necrodrakon」最新攻略ガイド。Pay close attention to the charm priority on this one.
+
+皆さんのハイスコアを教えて！📈
+
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #Necrodrakon
 
 **Alt Text:**
 
-An infographic guide for the Mistal Berserker boss in AFK Journey, created by Yaphalla, dated 06/21/2025. It features 6 team compositions including TEA | Sukuna, Pigeon, and UNC.
+An infographic guide for the Necrodrakon boss in AFK Journey, created by Yaphalla, version 8.0, dated 2025-07-25 for Resonance 815. It features 6 team compositions with damage values, including teams from Frosty Sr., Frosty Jr., Frosty III, MariusGmb, Breezey x Rhaenys, and Xun Zong. It also includes a detailed charm priority list.
 
 ---
 
 **Caption:**
 
-The ultimate Arcane Labyrinth strategy guide has arrived. 🚀 The Tooth Fairy x Yaphalla & Sukunaさんによる「Arcane Labyrinth」最新攻略ガイド。Let's get those rewards! (⌒▽⌒)☆ このボス、もう倒した？👀
+The numbers are in for Patch 1.4.2. 📊
 
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #ArcaneLabyrinth
+u/SkullsofSparta & Yaphallaさんをはじめとするトッププレイヤーたちの「Echoes of Dissent」編成。A deep dive into the data.
 
-**Alt Text:**
+他に良い戦略があれば教えて！🤔
 
-An infographic guide for the Arcane Labyrinth in AFK Journey, created by The Tooth Fairy x Yaphalla & Sukuna. It features 4 team compositions for both Chained Shield and Health Shield modes on floors 16-19, with a focus on Optimal Exodia Heroes.
-
----
-
-**Caption:**
-
-I'm excited to introduce Yapala.com, a new community-driven platform for #AFKJourney! It has everything from a team builder to hero databases and creator spotlights. Check out my full video tour to see how it can up your game!
-
-Watch here: https://www.youtube.com/watch?v=DCvP49Bvz6U
-
-#AFKJourney #AFKJourneyGuides #MobileGaming
----
-
-**Caption:**
-
-Data-driven strategies for Illucia the Unveiler. 📊 Yaphalla x Weirdo's Clubさんによる「Illucia the Unveiler」最新攻略ガイド。Resonance 815でのパフォーマンス分析。皆さんのハイスコアを教えて！📈
-
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #Illucia
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #EchoesOfDissent
 
 **Alt Text:**
 
-An infographic guide for the Illucia the Unveiler boss in AFK Journey, created by Yaphalla and Weirdo's Club, version 8.0, dated 2025-07-23, for Resonance 815. It features multiple team compositions with damage scores, including teams from Cheetos, TruongNguyen, Frosty, and others. The guide notes that all formations have some variance in damage due to RNG and includes a detailed charm priority list.
+Image 1: An AFK Journey tier list for Patch 1.4.2 (Echoes of Dissent) by u/SkullsofSparta and Yaphalla, dated 2025/07/22. The image shows hero rankings from T0 to T4 across four game modes: Dream Realm, Supreme Arena, Arena, and AFK Stages. A legend explains the symbols for different hero types and usage conditions.
+
+Image 2: A detailed changelog for AFK Journey Patch 1.4.2 (Echoes of Dissent) by u/SkullsofSparta and Yaphalla. It outlines specific hero tier changes within the Dream Realm, Supreme Arena, Arena, and AFK Stages categories, providing brief reasons for each adjustment.Struggling with the new Dream Realm bosses? This is for you. 💡
+
+Yaphallaさんによる「ドリームレルム」最新攻略ガイド。Pay close attention to the charm priority on this one.
+
+この編成、試してみてね！👍
+
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #DreamRealm
+
+**Alt Text:**
+
+Image 1: An infographic titled "Mythic Hero Charms Dream Realm" by Yaphalla, Rhaenys, and Breezey, updated 2025-08-04. It displays a priority list for hero charms, separated into "High Priority" and "Low Priority" tiers, to guide players on optimizing character builds for the Dream Realm game mode in AFK Journey.
+
+Image 2: An infographic guide for the "RNG Creeper" boss in AFK Journey, created by Yaphalla (Version 10.0, Resonance 859), dated 2025-08-05. It showcases 8 different team compositions with damage values and specific hero placements. The guide includes a charm guide and warns of "Extreme RNG," indicating high variance in damage output for all teams.Data-driven strategies for the Dream Realm have arrived. 🤓
+
+Yaphallaさんによる「ドリームレルム」最新攻略ガイド。A deep dive into the data.
+
+このデータ、どう思いますか？📊
+
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #DreamRealm
+
+**Alt Text:**
+
+Image 1: An infographic titled "Mythic Hero Charms Dream Realm" by Yaphalla, Rhaenys, and Breezey, updated 2025-08-04. It displays a priority list for hero charms, separated into "High Priority" and "Low Priority" tiers, to guide players on optimizing character builds for the Dream Realm game mode in AFK Journey.
+
+Image 2: An infographic guide for the "RNG Creeper" boss in AFK Journey, created by Yaphalla (Version 10.0, Resonance 859), dated 2025-08-05. It showcases 8 different team compositions with damage values and specific hero placements. The guide includes a charm guide and warns of "Extreme RNG," indicating high variance in damage output for all teams.

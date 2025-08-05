@@ -1,0 +1,173 @@
+{
+  "captionAngles": {
+    "The Hype Announcer": {
+      "hooks": ["Direct Challenge", "Value Proposition"],
+      "flavor": ["Enthusiasm / Hype"]
+    },
+    "The Helpful Strategist": {
+      "hooks": ["Problem/Solution", "Intrigue / Question"],
+      "flavor": ["Insider Tip", "The Struggle (Relatable Content)"]
+    },
+    "The Community Champion": {
+      "hooks": ["Community Spotlight"],
+      "flavor": ["Gratitude"]
+    },
+    "The Lore Master": {
+      "hooks": ["Intrigue / Question"],
+      "flavor": ["Insider Tip"]
+    },
+    "The Data Analyst": {
+      "hooks": ["Data-Driven"],
+      "flavor": ["Data Deep Dive"]
+    }
+  },
+  "captionComponents": {
+    "hooks": {
+      "Direct Challenge": [
+        "Conquer [Subject]! ⚔️",
+        "Time to take down [Subject]! 💥",
+        "[Subject] doesn't stand a chance. 👊",
+        "Ready to dominate [Subject]? 🔥",
+        "Show [Subject] who's boss. 👑"
+      ],
+      "Problem/Solution": [
+        "Struggling with [Subject]? This is for you. 💡",
+        "Your key to victory against [Subject] is here. 🔑",
+        "Unlock the secret to beating [Subject]. 🔓",
+        "[Subject] giving you trouble? Not anymore. ✅"
+      ],
+      "Value Proposition": [
+        "The ultimate [Subject] strategy guide has arrived. 🚀",
+        "Maximize your damage against [Subject] with these teams. 📊",
+        "The [Adjective] [Subject] guide just dropped! ✨",
+        "Your path to victory over [Subject] starts now. 🎯"
+      ],
+      "Intrigue / Question": [
+        "Is this the best way to beat [Subject]? 🤔",
+        "Think you know how to handle [Subject]? Think again. 😉",
+        "What if you could clear [Subject] in one go? 🤯",
+        "The one thing you're missing for [Subject]. 🤫"
+      ],
+      "Community Spotlight": [
+        "The community delivers! Check out this [Subject] guide. 🙌",
+        "Another masterpiece from our incredible theorycrafters! 🌟",
+        "Power to the players! Your guide to [Subject] is here. 💪",
+        "Our community is just built different. [Subject] guide inside. 💯"
+      ],
+      "Data-Driven": [
+        "The numbers are in for [Subject] v[version]. 📈",
+        "Data-driven strategies for [Subject]. 🤓",
+        "Optimizing [Subject]: A look at the top-performing teams. 🧐",
+        "By the numbers: The most effective [Subject] compositions. 🔢"
+      ]
+    },
+    "coreInfo": {
+      "Standard": [
+        "[Creator(s)]さんによる「[Subject]」最新攻略ガイド。",
+        "[Creator(s)]さん作成、[Subject]最新ガイドをお届け！"
+      ],
+      "Alternative Phrasing": [
+        "[Creator(s)]さん提供、[Subject]の完全攻略法です。",
+        "[Subject]で勝つためのトップ編成はこちら！([Creator(s)]さんより)",
+        "[Creator(s)]さんからの[Subject]攻略情報！"
+      ],
+      "Highlight-Focused": [
+        "[Creator(s)]さんによる[Subject]攻略、特に[Highlight]は必見です！",
+        "[Subject]攻略の鍵は「[Key Point]」！([Creator(s)]さん解説)"
+      ],
+      "Community-Focused": [
+        "コミュニティの達人、[Creator(s)]さんから[Subject]の必勝法が届きました！",
+        "[Creator(s)]さんをはじめとするトッププレイヤーたちの[Subject]編成。"
+      ]
+    },
+    "flavor": {
+      "Gratitude": [
+        "Thanks for the winning strategy!",
+        "Huge thanks to [Creator] for the builds!",
+        "Shoutout to our amazing theorycrafters! 感謝！",
+        "Incredible work from the community as always."
+      ],
+      "Enthusiasm / Hype": [
+        "This boss is tough, but these teams are tougher.",
+        "Let's get those rewards! (⌒▽⌒)☆",
+        "Time to climb the leaderboards. Let's gooo!",
+        "Let's see those high scores! 🔥",
+        "これで周回が楽になる！"
+      ],
+      "The Struggle (Relatable Content)": [
+        "Finally, a strategy that works.",
+        "This one was a real headache, but we got there.",
+        "For anyone who was stuck on [Subject], this is a lifesaver.",
+        "[Subject]、本当に強かった...。"
+      ],
+      "Insider Tip": [
+        "Pay close attention to the charm priority on this one.",
+        "The right formation makes all the difference here.",
+        "This strategy is a game-changer. Don't skip the details.",
+        "この[Character]の使い方が天才的。"
+      ],
+      "Data Deep Dive": [
+        "These teams are posting incredible numbers.",
+        "A deep dive into the data.",
+        "Resonance [resonance]でのパフォーマンス分析。",
+        "The math checks out. These are optimized."
+      ]
+    },
+    "cta": {
+      "Strategy & Teams": [
+        "皆さんの戦略は？👇",
+        "あなたの最強チームを教えて！💪",
+        "他に良い戦略があれば教えて！🤔",
+        "この編成、試してみてね！👍",
+        "どんな編成でクリアしましたか？"
+      ],
+      "Status & Feelings": [
+        "このボス、もう倒した？👀",
+        "コメントで感想を聞かせてください！💬",
+        "あなたの推しキャラは誰？❤️",
+        "今回の[Subject]、難易度はどうだった？"
+      ],
+      "Performance & Data": [
+        "皆さんのハイスコアを教えて！📈",
+        "このデータ、どう思いますか？📊",
+        "あなたの戦績も教えて！📈",
+        "さらなる最適化案はありますか？🤓"
+      ]
+    }
+  },
+  "hashtagStrategy": {
+    "default": [
+      "#AFKJourney",
+      "#AFKJ",
+      "#AFKJourneyGuide",
+      "#AFKジャーニー"
+    ],
+    "contextual": {
+      "primary": [
+        "PrimalLord",
+        "BattleDrill",
+        "DreamRealm"
+      ],
+      "secondary": [
+        "GameStrategy",
+        "GachaGaming"
+      ]
+    }
+  },
+  "antiRepetition": {
+    "hooks": [
+      "Data-driven strategies for [Subject]. 🤓",
+      "Struggling with [Subject]? This is for you. 💡",
+      "The numbers are in for [Subject] v[version]. 📈",
+      "The ultimate [Subject] strategy guide has arrived. 🚀",
+      "Ready to dominate [Subject]? 🔥"
+    ],
+    "cta": [
+      "このデータ、どう思いますか？📊",
+      "この編成、試してみてね！👍",
+      "他に良い戦略があれば教えて！🤔",
+      "皆さんのハイスコアを教えて！📈",
+      "あなたの最強チームを教えて！💪"
+    ]
+  }
+}

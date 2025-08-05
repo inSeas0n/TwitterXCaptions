@@ -1,19 +1,16 @@
-# Dynamic Content Generation for Twitter (X) - v3.0
+# Dynamic Content Generation for Twitter (X) - v4.0 (Config-Driven)
 
-This document outlines the primary workflow for creating engaging, high-performing content. It integrates with the `caption_library.md` and `rules.md` to produce varied and effective captions for each image found in the input directory.
+This document outlines the optimized workflow for creating engaging, high-performing content. It leverages a central `config.json` file to manage caption components, rules, and anti-repetition data, making the process faster and more automated.
 
-## 1. Pre-Flight Check: Anti-Repetition Analysis
+## 1. Initialization: Load Configuration
 
-*   **Objective:** To ensure content freshness and avoid audience fatigue.
-*   **Action:** Before analyzing a new image, review the last 5 entries in `C:\Twitter\4_archive\captions_log.md`.
-*   **Analysis Points:**
-    *   **Hook Repetition:** Identify the hooks used in recent posts.
-    *   **CTA Repetition:** Identify the Calls to Action (CTAs) used.
-*   **Outcome:** A list of recently used hooks and CTAs to be avoided for the current image.
+*   **Objective:** To load all necessary data and settings for the session.
+*   **Action:** Read the `C:\TwitterXCaptions\2_workflow\config.json` file into memory.
+*   **Outcome:** All caption components, angle definitions, hashtag rules, and anti-repetition history are ready for use.
 
 ## 2. Content Foundation: Image-First Context Protocol
 
-To ensure captions are data-rich and contextually accurate, the following protocol will be executed for **each image** found in `C:\Twitter\1_input`. This protocol prioritizes direct image analysis to eliminate errors from filename or historical data reliance.
+To ensure captions are data-rich and contextually accurate, the following protocol will be executed for **each image** found in `C:\TwitterXCaptions\1_input`. This protocol can be run in parallel for multiple images.
 
 ### **Step 1: Image Recognition and OCR**
 
@@ -28,53 +25,48 @@ To ensure captions are data-rich and contextually accurate, the following protoc
 *   **Analysis Points:**
     *   **Primary Subject:** What is the main topic of the infographic (e.g., Boss name, event name)?
     *   **Creator Attribution:** Who created this guide (e.g., Yaphalla, inSeas0n)?
-    *   **Key Elements:** What are the crucial data points (e.g., number of teams, character names, core mechanics)?
-*   **Outcome:** A clear understanding of the image's content and purpose.
+    *   **Key Elements:** What are the crucial data points (e.g., number of teams, character names, core mechanics, data-heavy)?
+*   **Outcome:** A clear, structured understanding of the image's content and purpose.
 
-### **Step 3: Structured Data Output**
+## 3. The Caption Crafting Engine (Automated)
 
-*   **Objective:** To create a structured summary for use in caption and alt text generation.
-*   **Action:** Compile the synthesized information into a final, structured format.
-*   **Outcome:** A machine-readable data block that will inform the rest of the workflow.
+This engine uses the data from the `config.json` and the image analysis to intelligently construct the caption.
 
-## 3. The Caption Crafting Engine
+### A. Automated Angle Selection
 
-This engine uses the components from `C:\Twitter\2_workflow\caption_library.md` and the guidelines from `C:\Twitter\2_workflow\rules.md`.
-
-### A. Define the Angle (Choose One)
-
-*   The Hype Announcer
-*   The Helpful Strategist
-*   The Community Champion
-*   The Lore Master
-*   The Data Analyst
+*   **Objective:** To choose the most contextually relevant angle for the caption.
+*   **Action:** The system will automatically select an angle based on the image's content:
+    *   If the image contains significant data/numbers -> **"The Data Analyst"**
+    *   If the creator is a known community figure -> **"The Community Champion"**
+    *   If the subject is a new boss/event -> **"The Hype Announcer"**
+    *   Otherwise -> **"The Helpful Strategist"**
+*   **Outcome:** A context-aware angle is chosen.
 
 ### B. Assemble the Caption
 
-*   **Rule of Variation:** When selecting components (Hook, CTA, etc.), **do not** use any of the items identified in the "Anti-Repetition Analysis." If all items in a category have been used recently, select the one that was used least recently.
-*   Dynamically combine components from the `caption_library.md` based on the chosen angle.
+*   **Rule of Variation:** The system will automatically select a hook and CTA from the `config.json` that has been used least recently, based on the `antiRepetition` data.
+*   **Action:** Dynamically combine components from the `config.json` based on the chosen angle.
 
 ### C. Apply Strategic Hashtags
 
-*   Apply the hashtag strategy as defined in `C:\Twitter\2_workflow\rules.md`.
+*   **Action:** Apply the hashtag strategy as defined in the `config.json` file.
 
 ## 4. Advanced Alt Text Protocol
 
 *   Generate descriptive, keyword-rich alt text based on the structured data synthesis.
 
-## 5. Archiving and File Management
+## 5. Archiving and State Management
 
-1.  **Log Caption:** Add the final caption and alt text to the end of `C:\Twitter\4_archive\captions_log.md`.
-2.  **Move Processed Image:** After all steps are complete for an image, move the image file from `C:\Twitter\1_input` to `C:\Twitter\4_archive\processed_images`. This prevents reprocessing and keeps the input directory clean.
+1.  **Log Caption:** Add the final caption and alt text to the end of `C:\TwitterXCaptions\4_archive\captions_log.md`.
+2.  **Update Config:** Update the `antiRepetition` section in `config.json` with the hook and CTA used in the generated caption.
+3.  **Move Processed Image:** Move the image file from `C:\TwitterXCaptions\1_input` to `C:\TwitterXCaptions\4_archive\processed_images`.
 
 ## 6. Execution Loop
 
 This is the main execution process. It will run until no images are left in the input directory.
 
-1.  **Check for Images:** List all files in the `C:\Twitter\1_input` directory.
+1.  **Check for Images:** List all files in the `C:\TwitterXCaptions\1_input` directory.
 2.  **Termination Condition:** If the directory is empty, the workflow is complete. Stop execution.
-3.  **Process First Image:** Take the first image from the list.
-4.  **Execute Steps 1-4:** Perform the Anti-Repetition Analysis, Image-First Context Protocol, Caption Crafting, and Alt Text Protocol for the selected image.
-5.  **Write Output:** Save the final generated caption and alt text to `C:\Twitter\3_output\latest_caption.md`.
-6.  **Execute Step 5:** Perform the Archiving and File Management steps.
-7.  **Loop:** Go back to Step 1.
+3.  **Process Images:** Take all images from the list and process them (Steps 2-5 can be run in parallel).
+4.  **Write Output:** Save the final generated caption and alt text to `C:\TwitterXCaptions\3_output\latest_caption.md`.
+5.  **Loop:** Go back to Step 1.

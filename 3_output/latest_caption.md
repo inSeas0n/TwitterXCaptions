@@ -1,9 +1,13 @@
-**Caption:**
+Data-driven strategies for the Dream Realm have arrived. 🤓
 
-Data-driven strategies for Illucia the Unveiler. 📊 Yaphalla x Weirdo's Clubさんによる「Illucia the Unveiler」最新攻略ガイド。Resonance 815でのパフォーマンス分析。皆さんのハイスコアを教えて！📈
+Yaphallaさんによる「ドリームレルム」最新攻略ガイド。A deep dive into the data.
 
-#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #Illucia
+このデータ、どう思いますか？📊
+
+#AFKJourney #AFKJ #AFKJourneyGuide #AFKジャーニー #DreamRealm
 
 **Alt Text:**
 
-An infographic guide for the Illucia the Unveiler boss in AFK Journey, created by Yaphalla and Weirdo's Club, version 8.0, dated 2025-07-23, for Resonance 815. It features multiple team compositions with damage scores, including teams from Cheetos, TruongNguyen, Frosty, and others. The guide notes that all formations have some variance in damage due to RNG and includes a detailed charm priority list.
+Image 1: An infographic titled "Mythic Hero Charms Dream Realm" by Yaphalla, Rhaenys, and Breezey, updated 2025-08-04. It displays a priority list for hero charms, separated into "High Priority" and "Low Priority" tiers, to guide players on optimizing character builds for the Dream Realm game mode in AFK Journey.
+
+Image 2: An infographic guide for the "RNG Creeper" boss in AFK Journey, created by Yaphalla (Version 10.0, Resonance 859), dated 2025-08-05. It showcases 8 different team compositions with damage values and specific hero placements. The guide includes a charm guide and warns of "Extreme RNG," indicating high variance in damage output for all teams.
